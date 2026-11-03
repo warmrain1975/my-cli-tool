@@ -1,0 +1,28 @@
+# ---- OS ----
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ---- Editors / IDE ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.history/
+
+# ---- Env ----
+.env
+.env.local
+
+# ---- Dependencies / build (通用占位，选定语言后按需删减) ----
+node_modules/
+__pycache__/
+*.pyc
+dist/
+build/
+*.egg-info/
+target/
+
+# ---- Logs ----
+*.log
