@@ -1,0 +1,5 @@
+[project]
+name = "my-cli-tool"
+version = "0.1.0"
+description = "个人命令行小工具集：批量改名、抓网页、调 API、CSV/JSON 互转"
+requires-python = ">=3.8"
