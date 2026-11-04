@@ -52,7 +52,7 @@ python -m my_cli_tool api "https://httpbin.org/get" --out resp.json
 python -m my_cli_tool convert csv2json input.csv output.json
 
 # JSON 转 CSV（要求 JSON 是对象数组）
-python -m my_cli_tool convert json2input output.csv input.json
+python -m my_cli_tool convert json2csv input.json output.csv
 ```
 
 ## 目录结构
